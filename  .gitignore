@@ -1,0 +1,11 @@
+# Скомпилированные файлы
+out/
+*.class
+
+# Файлы IDE
+.idea/
+*.iml
+.vscode/
+
+# Служебные файлы macOS
+.DS_Store
