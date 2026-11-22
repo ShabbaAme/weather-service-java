@@ -1,4 +1,7 @@
- @param lat   широта
- @param lon   долгота
- @param limit количество суток прогноза
- @return тело ответа сервиса (JSON) без изменений
+# Weather Service Java
+
+## Параметры
+- @param lat   широта
+- @param lon   долгота
+- @param limit количество суток прогноза
+- @return тело ответа сервиса (JSON) без изменений
